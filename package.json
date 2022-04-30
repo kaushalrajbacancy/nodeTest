@@ -10,7 +10,6 @@
   "author": "bacancy",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.27.2",
     "coingecko-api": "^1.0.10",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
