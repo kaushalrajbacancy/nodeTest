@@ -1,9 +1,9 @@
 # Following are the steps to start the project
  
-1. Download Folder
-2. npm install
-3. npx nodemon
-4. hit the GET URL in RestClient or Browser http://localhost:3000/prices
+1. Take a clone of the project
+2. **npm install**
+3. **npx nodemon**
+4. Execute the GET URL in the RestClient or Browser **http://localhost:3000/prices**
 
 
 # Enhancement steps to be taken
@@ -17,7 +17,7 @@
 4. Localization for error messages
 
 
-Notes: 
+#Important Notes: 
 
 1. If this does not work, please check env file and replace the credentials of SDK
 
