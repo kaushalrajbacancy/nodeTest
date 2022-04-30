@@ -2,7 +2,7 @@
  
 1. Take a clone of the project
 2. **npm install**
-3. **npx nodemon**
+3. **npx nodemon** or **npm start**
 4. Execute the GET URL in the RestClient or Browser **http://localhost:3000/prices**
 
 
